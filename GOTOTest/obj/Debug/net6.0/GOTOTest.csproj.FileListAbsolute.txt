@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\小小實作\GOTOTest\GOTOTest\bin\Debug\net6.0\GOTOTest.exe
+C:\Users\user\Desktop\小小實作\GOTOTest\GOTOTest\bin\Debug\net6.0\GOTOTest.deps.json
+C:\Users\user\Desktop\小小實作\GOTOTest\GOTOTest\bin\Debug\net6.0\GOTOTest.runtimeconfig.json
+C:\Users\user\Desktop\小小實作\GOTOTest\GOTOTest\bin\Debug\net6.0\GOTOTest.dll
+C:\Users\user\Desktop\小小實作\GOTOTest\GOTOTest\bin\Debug\net6.0\GOTOTest.pdb
+C:\Users\user\Desktop\小小實作\GOTOTest\GOTOTest\obj\Debug\net6.0\GOTOTest.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\小小實作\GOTOTest\GOTOTest\obj\Debug\net6.0\GOTOTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\小小實作\GOTOTest\GOTOTest\obj\Debug\net6.0\GOTOTest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\小小實作\GOTOTest\GOTOTest\obj\Debug\net6.0\GOTOTest.AssemblyInfo.cs
+C:\Users\user\Desktop\小小實作\GOTOTest\GOTOTest\obj\Debug\net6.0\GOTOTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\小小實作\GOTOTest\GOTOTest\obj\Debug\net6.0\GOTOTest.dll
+C:\Users\user\Desktop\小小實作\GOTOTest\GOTOTest\obj\Debug\net6.0\refint\GOTOTest.dll
+C:\Users\user\Desktop\小小實作\GOTOTest\GOTOTest\obj\Debug\net6.0\GOTOTest.pdb
+C:\Users\user\Desktop\小小實作\GOTOTest\GOTOTest\obj\Debug\net6.0\GOTOTest.genruntimeconfig.cache
+C:\Users\user\Desktop\小小實作\GOTOTest\GOTOTest\obj\Debug\net6.0\ref\GOTOTest.dll
